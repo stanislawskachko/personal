@@ -355,22 +355,21 @@ ul {
 
 .project:hover {
     -webkit-filter: color(100%);
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
     border-color: darkgrey;
     
 }
 
 .study:hover {
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
     border-color: darkgrey;
 }
 
 .backbutton {
     color: grey;
     text-decoration: none;
-    /* text-align: left; */
     font-size: 0.6rem;
     padding: 0px;
 }
